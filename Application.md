@@ -4,7 +4,7 @@ We are writing to express our interested to attend the two-day training course i
 
 * Mike Croucher (https://github.com/mikecroucher on GitHub)
 * Jez Cope ([jezcope](https://github.com/jezcope) on GitHub)
-* NAME_OF_3RD_STUDENT (GITHUB_ID on GitHub),
+* Will Furnass ([willfurnass](https://github.com/willfurnass) on GitHub)
 * NAME_OF_4TH_STUDENT (GITHUB_ID on GitHub),
 * NAME_OF_5TH_STUDENT (GITHUB_ID on GitHub) and
 * NAME_OF_6TH_STUDENT (GITHUB_ID on GitHub).
@@ -15,7 +15,7 @@ Mike Croucher is a Research Software Engineer at University of Sheffield. He arr
 
 NAME_OF_2ND_STUDENT
 
-NAME_OF_3RD_STUDENT
+Will Furnass is a [Post-Doctoral Research Associate in Civil and Structural Engineering](https://www.shef.ac.uk/civil/staff/research/furnassw) at the University of Sheffield.  His somewhat non-linear career path has taken in a computer science undergraduate degree, several years of IT systems engineering (so he is very familiar with Bash/Linux) and a PhD in water engineering (which involved numerical modelling using Python).  In October, he was a Helper at a [Data Carpentry workshop in Leeds](http://hpcarcher.github.io/2015-10-29-Leeds-DC/).  Other teaching experience includes: [running soft skills](http://www.sheffield.ac.uk/ssid/301/services/workshops) workshops at the University, trying to get civil engineers interested in things like [research data management](https://github.com/willfurnass/RDMPresentationApr2014), and version control and lecturing on water-engineering-related subjects.
 
 NAME_OF_4TH_STUDENT
 
