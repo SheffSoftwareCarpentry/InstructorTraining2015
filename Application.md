@@ -3,7 +3,7 @@ Dear SCF Mentoring Subcommittee,
 We are writing to express our interested to attend the two-day training course in December 2015 as one group composed of:
 
 * Mike Croucher (https://github.com/mikecroucher on GitHub)
-* NAME_OF_2ND_STUDENT (GITHUB_ID on GitHub)
+* Jez Cope ([jezcope](https://github.com/jezcope) on GitHub)
 * NAME_OF_3RD_STUDENT (GITHUB_ID on GitHub),
 * NAME_OF_4TH_STUDENT (GITHUB_ID on GitHub),
 * NAME_OF_5TH_STUDENT (GITHUB_ID on GitHub) and
