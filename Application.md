@@ -5,7 +5,7 @@ We are writing to express our interested to attend the two-day training course i
 * Mike Croucher (https://github.com/mikecroucher on GitHub)
 * Jez Cope ([jezcope](https://github.com/jezcope) on GitHub)
 * Will Furnass ([willfurnass](https://github.com/willfurnass) on GitHub)
-* NAME_OF_4TH_STUDENT (GITHUB_ID on GitHub),
+* David Jones ([drj11](https://github.com/drj11) on GitHub)
 * NAME_OF_5TH_STUDENT (GITHUB_ID on GitHub) and
 * NAME_OF_6TH_STUDENT (GITHUB_ID on GitHub).
 
@@ -17,7 +17,18 @@ Jez Cope is Research Data Manager in the University of Sheffield Library. In a f
 
 Will Furnass is a [Post-Doctoral Research Associate in Civil and Structural Engineering](https://www.shef.ac.uk/civil/staff/research/furnassw) at the University of Sheffield.  His somewhat non-linear career path has taken in a computer science undergraduate degree, several years of IT systems engineering (so he is very familiar with Bash/Linux) and a PhD in water engineering (which involved numerical modelling using Python).  In October, he was a Helper at a [Data Carpentry workshop in Leeds](http://hpcarcher.github.io/2015-10-29-Leeds-DC/).  Other teaching experience includes: [running soft skills workshops](http://www.sheffield.ac.uk/ssid/301/services/workshops) at the University, trying to get civil engineers interested in things like [research data management](https://github.com/willfurnass/RDMPresentationApr2014) and version control, and lecturing on water-engineering-related subjects.  He is a member of the Python Sheffield group.
 
-NAME_OF_4TH_STUDENT
+David Jones is a Research Software Engineer
+in the Hide Lab for Computational Biology
+in the University of Sheffield.
+His current position follows a maths degree
+and more than 20 years in industry
+programming a variety of things
+(near real-time garbage collectors, video games, robotics,
+and, most recently, data oriented web apps).
+David loves Python, shell, and all things programmatical.
+He is passionate about bringing the joys of programming to a wider
+and more diverse audience. David has been a helper and an
+instructor at two previous Software Carpentry workshops.
 
 NAME_OF_5TH_STUDENT
 
