@@ -6,7 +6,7 @@ We are writing to express our interested to attend the two-day training course i
 * Jez Cope ([jezcope](https://github.com/jezcope) on GitHub)
 * Will Furnass ([willfurnass](https://github.com/willfurnass) on GitHub)
 * David Jones ([drj11](https://github.com/drj11) on GitHub)
-* NAME_OF_5TH_STUDENT (GITHUB_ID on GitHub) and
+* Drew Leonard ([drewleonard42](https://github.com/drewleonard42) on GitHub) and
 * NAME_OF_6TH_STUDENT (GITHUB_ID on GitHub).
 
 THIS SECTION IS TO GIVE DETAILS OF OUR SC-RELATED EXPERIENCE
@@ -30,7 +30,7 @@ He is passionate about bringing the joys of programming to a wider
 and more diverse audience. David has been a helper and an
 instructor at two previous Software Carpentry workshops.
 
-NAME_OF_5TH_STUDENT
+Drew Leonard is a Post-Doctoral Research Associate in Solar Physics at the University of Sheffield. He has made several contributions to [SunPy](http://sunpy.org), an open-source solar physics library written in Python, which he used extensively for his PhD. Drew organised several short Python courses for students and staff during his PhD, as well as assissting with existing undergraduate coding modules. He also ran a Software Carpentry-style SunPy workshop held at Sheffield in March, and is currently arranging another of these workshops for January.
 
 NAME_OF_6TH_STUDENT
 
