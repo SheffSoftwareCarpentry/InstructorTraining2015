@@ -23,7 +23,7 @@ FOO
 
 Drew's Feedback
 
-FOO
+I watched video b. The presenter explained very clearly the usage of each command and the relevant options. It was also good that he repeated the commands a few times to demonstrate how the commands worked with different options. However, previous commands and their output were soon lost past the top of the screen, which might make it more difficult for people who have fallen behind to catch up. I would also expand a little on the explanation of why excel or similar would bnot be suitable for the sorting task, since people tend to need a good reason to move away from using a tool they already know how to use.
 
 Will's Feedback
 
