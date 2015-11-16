@@ -5,7 +5,7 @@ We are writing to express our interested to attend the two-day training course i
 * Mike Croucher (https://github.com/mikecroucher on GitHub)
 * Jez Cope ([jezcope](https://github.com/jezcope) on GitHub)
 * Will Furnass ([willfurnass](https://github.com/willfurnass) on GitHub)
-* NAME_OF_4TH_STUDENT (GITHUB_ID on GitHub),
+* Anna Krystalli ([annakrystalli](https://github.com/annakrystalli) on GitHub),
 * NAME_OF_5TH_STUDENT (GITHUB_ID on GitHub) and
 * NAME_OF_6TH_STUDENT (GITHUB_ID on GitHub).
 
@@ -17,7 +17,7 @@ Jez Cope is Research Data Manager in the University of Sheffield Library. In a f
 
 Will Furnass is a [Post-Doctoral Research Associate in Civil and Structural Engineering](https://www.shef.ac.uk/civil/staff/research/furnassw) at the University of Sheffield.  His somewhat non-linear career path has taken in a computer science undergraduate degree, several years of IT systems engineering (so he is very familiar with Bash/Linux) and a PhD in water engineering (which involved numerical modelling using Python).  In October, he was a Helper at a [Data Carpentry workshop in Leeds](http://hpcarcher.github.io/2015-10-29-Leeds-DC/).  Other teaching experience includes: [running soft skills](http://www.sheffield.ac.uk/ssid/301/services/workshops) workshops at the University, trying to get civil engineers interested in things like [research data management](https://github.com/willfurnass/RDMPresentationApr2014), and version control and lecturing on water-engineering-related subjects.
 
-NAME_OF_4TH_STUDENT
+[Anna Krystalli](http://www.annakrystalli.com/overview.html) is now a postdoc after completing a PhD at the Department of Animal & Plant Science, University of Sheffield, in the field of macroecology. The field is highly computational (primarily in R) and often involves working with large and disparate datasets. Outside of academia she has also held posts as a quality assurance auditor for contract research organisations so is particularly interested in current drives to promote reproducibility, transparency, robust workflows and sound data management in science. She’s been involved in teaching on a variety of courses including [postgraduate level courses in advanced statistics in R](http://www.r4all.org/the-courses/) and undergraduate [marine ecology field courses](https://www.shef.ac.uk/aps/currentug/level3/aps350). She also co-developed and delivered a one day [data management and open science in R](http://figshare.com/articles/Research_Data_Management_in_R/1600906) workshop for [ACCE DTP](https://acce.shef.ac.uk/) postgraduate students.
 
 NAME_OF_5TH_STUDENT
 
