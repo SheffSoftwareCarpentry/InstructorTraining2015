@@ -19,7 +19,7 @@ FOO
 
 Anna's Feedback
 
-FOO
+a) I liked the use of Ipython (Jupyter) notebooks so that participants could follow and interact with the material in the session. I also liked the frequent recapping of previously covered material especially through asking questions of participants. Ensuring material was clearly visible by asking for feedback from participants was also good. She gave well rounded responses to participants questions and provided informative demonstration of the principles she was trying to explain. Good thinking on her feet. I would probably follow very similar approaches but I generally try to be slightly more enthusiastic and animated when teaching.
 
 Drew's Feedback
 
