@@ -33,19 +33,16 @@ Drew Leonard is a Post-Doctoral Research Associate in Solar Physics at the Unive
 
 [Anna Krystalli](http://www.annakrystalli.com/overview.html) is now a postdoc after completing a PhD at the Department of Animal & Plant Science, University of Sheffield, in the field of macroecology. The field is highly computational (primarily in R) and often involves working with large and disparate datasets. Outside of academia she has also held posts as a quality assurance auditor for contract research organisations so is particularly interested in current drives to promote reproducibility, transparency, robust workflows and sound data management in science. She’s been involved in teaching on a variety of courses including [postgraduate level courses in advanced statistics in R](http://www.r4all.org/the-courses/) and undergraduate [marine ecology field courses](https://www.shef.ac.uk/aps/currentug/level3/aps350). She also co-developed and delivered a one day [data management and open science in R](http://figshare.com/articles/Research_Data_Management_in_R/1600906) workshop for [ACCE DTP](https://acce.shef.ac.uk/) postgraduate students.
 
-If we are selected for the instructor training we will use a meeting room in the Husband Building as a venue. The room and AV equipment have already been booked.
+If we are selected for the instructor training we will use a meeting room in the Husband Building at The University of Sheffield as a venue. The room and AV equipment have already been booked.
 
 We are planning to organize three workshops at the beginning of 2016:
 
-* Python based Software Carpentry (Subject specific)
-* Python based Software Carpentry (Open access)
+* Python based Software Carpentry (Focusing on participants from one academic subject)
+* Python based Software Carpentry (For participants from a range of disciplines)
 * Data Carpentry
 
-(More details of these will need to be given as part of the application.)
+These events will be co-ordinated via our [github organisation](https://github.com/SheffieldSoftwareCarpentry) which was also used to co-ordinate this application. 
 
-ADDITIONAL NOTES THAT MAY AID OUR APPLICATION
+Mike Croucher will soon present a 'Research Software Manifesto' to the Faculty Executive Board of the Faculty of Engineering at the University of Sheffield. The provision of quality research software training is at the core of this manifesto. If we are successful in this application, this training course and the subsequent software carpentry events will be used as case studies for a business case recommending that the University of Sheffield become a Software Carpentry Affiliate.
 
-* Using this to bootstrap a SC-related community at University of Sheffield.
-* We have a github organisation which we'll use to co-ordinate SC effort at Sheffield.
-
-Thanks for your consideration.
+Thank you for your consideration.
