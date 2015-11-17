@@ -6,10 +6,9 @@ We are writing to express our interested to attend the two-day training course i
 * Jez Cope ([jezcope](https://github.com/jezcope) on GitHub)
 * Will Furnass ([willfurnass](https://github.com/willfurnass) on GitHub)
 * David Jones ([drj11](https://github.com/drj11) on GitHub)
-* Drew Leonard ([drewleonard42](https://github.com/drewleonard42) on GitHub) and
-* NAME_OF_6TH_STUDENT (GITHUB_ID on GitHub).
+* Drew Leonard ([drewleonard42](https://github.com/drewleonard42) on GitHub)
+* Anna Krystalli ([annakrystalli](https://github.com/annakrystalli) on GitHub)
 
-THIS SECTION IS TO GIVE DETAILS OF OUR SC-RELATED EXPERIENCE
 
 Mike Croucher is a Research Software Engineer at University of Sheffield. He arranged the first ever MATLAB-based Software Carpentry event in collaboration with Mathworks at University of Manchester in 2014, see http://www.walkingrandomly.com/?p=5324 for details. He was subsequently involved in arranging and teaching a MATLAB Software Carpentry event at University of Sheffield in 2015. He has previously completed the Software Carpentry training and is taking part on this group in a coordination role. He will work to ensure that the Software Carpentry events promised are delivered and will take part in teaching.
 
@@ -32,7 +31,7 @@ instructor at two previous Software Carpentry workshops.
 
 Drew Leonard is a Post-Doctoral Research Associate in Solar Physics at the University of Sheffield. He has made several contributions to [SunPy](http://sunpy.org), an open-source solar physics library written in Python, which he used extensively for his PhD. Drew organised several short Python courses for students and staff during his PhD, as well as assissting with existing undergraduate coding modules. He also ran a Software Carpentry-style SunPy workshop held at Sheffield in March, and is currently arranging another of these workshops for January.
 
-NAME_OF_6TH_STUDENT
+[Anna Krystalli](http://www.annakrystalli.com/overview.html) is now a postdoc after completing a PhD at the Department of Animal & Plant Science, University of Sheffield, in the field of macroecology. The field is highly computational (primarily in R) and often involves working with large and disparate datasets. Outside of academia she has also held posts as a quality assurance auditor for contract research organisations so is particularly interested in current drives to promote reproducibility, transparency, robust workflows and sound data management in science. She’s been involved in teaching on a variety of courses including [postgraduate level courses in advanced statistics in R](http://www.r4all.org/the-courses/) and undergraduate [marine ecology field courses](https://www.shef.ac.uk/aps/currentug/level3/aps350). She also co-developed and delivered a one day [data management and open science in R](http://figshare.com/articles/Research_Data_Management_in_R/1600906) workshop for [ACCE DTP](https://acce.shef.ac.uk/) postgraduate students.
 
 If we are selected for the instructor training we will use a meeting room in the Husband Building as a venue. The room and AV equipment have already been booked.
 
