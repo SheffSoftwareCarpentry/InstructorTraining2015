@@ -23,7 +23,38 @@ This structure would make the lesson flow better and provide a clearer recall st
 
 ## David's Feedback
 
-FOO
+I watched video B: https://vimeo.com/139181120
+
+The split screen video
+showing the projector in one big rectangle
+and the presenter in a smaller rectangle
+works well,
+and is a good way to video presentations
+for sharing.
+I like the, brief, recap at the beginning,
+and the preview of what is to come.
+There were a couple of awkward pauses
+where it appeared that
+the instructor was looking for what to do next,
+losing flow and
+appearing slight unconfident. 
+On a technical level,
+when discussing a particular part of a command,
+moving the cursor to
+the part under discussion
+(a "*" in this case)
+worked really well;
+referring to the man page was also good.
+The large terminal displays was good
+(I've seen too many presentations go sour
+because the letters were too small)
+but the terminal should stretch all the way to the bottom!
+Towards the end,
+when constructing a pipeline,
+the instructor makes an error with wc;
+this would've been a good moment to explain the error,
+explain the output,
+and what went wrong.
 
 ## Anna's Feedback
 
