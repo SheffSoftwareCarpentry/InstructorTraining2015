@@ -34,9 +34,9 @@ Drew Leonard is a Post-Doctoral Research Associate in Solar Physics at the Unive
 
 NAME_OF_6TH_STUDENT
 
-If we are selected for the instructor training we will use the conference room of our department that you can check below. We already made reservations for that room in advance. (TODO)
+If we are selected for the instructor training we will use a meeting room in the Husband Building as a venue. The room and AV equipment have already been booked.
 
-We are planing to organize three workshops at the beginning of 2016:
+We are planning to organize three workshops at the beginning of 2016:
 
 * Python based Software Carpentry (Subject specific)
 * Python based Software Carpentry (Open access)
