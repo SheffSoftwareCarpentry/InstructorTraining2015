@@ -7,7 +7,7 @@ We submit these as part of the individual surveys but reproduce them here for th
 
 ## Mike's Feedback
 
-FOO
+I watched video 'b'. The presentation is very clear and well-paced. I like how he starts with simple examples which are built up to more complex analysis. The sorting example was not well thought out since 'sort' and 'sort -n' in this instance produced the same result. It would have been better to engineer data that gave different output. He refers to man pages as a way of answering the audience's questions - something that I think is good practice since it encourages them to do this too.
 
 ## Jez's Feedback
 
